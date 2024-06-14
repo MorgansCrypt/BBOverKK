@@ -1,8 +1,5 @@
-title: Brisbone
-originalAuthor: MorgansCrypt
-description: Replaces KingdomKey with Brisbone, a custom keyblade based on Bluey. Design credits to the show's Art Director @CosmicGl0w
-assets:
-- name: obj/W_EX010.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010.mdlx
+ id: 0x05C2
+  en: Brisbone
+- id: 0x05C3
+  en: >-
+    A keyblade made by Morgan.
