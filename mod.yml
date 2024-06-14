@@ -1,6 +1,6 @@
 title: Brisbone
 originalAuthor: MorgansCrypt
-description: 'Replaces Kingdom Key with Worlds Collide, an original Keyblade made for the Across the Universe Tournament'
+description: 'Replaces Kingdom Key with Brisbone.'
 assets:
 - name: obj/W_EX010.mdlx
   method: copy
